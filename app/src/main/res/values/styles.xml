@@ -8,6 +8,8 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
-    <style name="my_style" parent="AppTheme" />
+    <style name="my_style" parent="AppTheme" >
+        <item name="android:textColorPrimaryInverse">@android:color/holo_blue_bright</item>
+    </style>
 
 </resources>
